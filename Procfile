@@ -1,1 +1,0 @@
-web: java -jar gogo-server.jar 1024
